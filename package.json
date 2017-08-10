@@ -47,7 +47,7 @@
   "dependencies": {
     "async": "^1.3.0",
     "bitcoind-rpc": "^0.6.0",
-    "bitcore-lib-zcash": "runn1ng/bitcore-lib-zcash#patch-1",
+    "bitcore-lib-zcash": "str4d/bitcore-lib-zcash",
     "body-parser": "^1.13.3",
     "colors": "^1.1.2",
     "commander": "^2.8.1",
